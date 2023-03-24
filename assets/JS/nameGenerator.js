@@ -1,4 +1,4 @@
-const names = ['Amina', 'Babajide', 'Kenneth', 'Wayeu', 'Myesha', 'Stteffanny', 'Valentina', 'Victoria', 'Derrick', 'Mesfin', 'Yonatan', 'Catherine', 'Alex Latte', 'Danielle', 'Anthony Lomax', 'Yohannes', 'Mathew Olajide', 'Slav', 'Hemalatha', 'Sri', 'Daniel', 'Saul', 'Santosh', 'Humaira', 'Alex Torres', 'Aboma', 'Helen', 'Synquis']; // prettier-ignore
+const names = ['Barukeemyah', 'Blen', 'Eden', 'Eric','Etsegenet', 'Evan','Garrett','Gustavo','Haggie','Harmoni','Khatera', 'Jada','Jorge','Josiah','Kalkidan','Naná', 'Pierre', 'Shaei','Shicell','Siedah']; // prettier-ignore
 
 const getNameButton = document.getElementById('nameBtn');
 const clearButton = document.getElementById('clearBtn');
